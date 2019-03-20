@@ -2,3 +2,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "conextsolution/website2.0"]
+	path = conextsolution/website2.0
+	url = git@github.com:conextsolution/website2.0.git
+	branch = master
