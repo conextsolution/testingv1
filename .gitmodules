@@ -1,0 +1,4 @@
+[submodule "amigrave/odoo.sh-test"]
+	path = amigrave/odoo.sh-test
+	url = git@github.com:amigrave/odoo.sh-test.git
+	branch = another_branch
